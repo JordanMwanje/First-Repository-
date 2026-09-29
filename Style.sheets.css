@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-image: url("./images/Ferrari F40.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: #c5c6c7;
+}
+
+h1 {
+    font-family: "Pacifico", cursive;
+    color: white;
+}
+
+p {
+	font-size: medium;
+	font-weight: 100;
+	font-style: italic;
+	color: rgb(0,85,200)
+}
+
+h2 {
+    font-family: "pacifico", cursive;
+    color: black;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.buttons {
+	display: auto;
+}
+
+	
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+}
+
+	
+
